@@ -1,0 +1,25 @@
+.activity {
+  font-size: 28px;
+  font-weight: bold;
+  color: #ccc;
+  margin-top: 15px;
+}
+
+.num {
+  display: flex;
+  align-items: flex-end;
+}
+
+.runningNum {
+  color: #69b1ff;
+  margin-right: 5px;
+}
+
+.allNum {
+  color: #7cb305;
+  margin-left: 5px;
+}
+
+.bullet {
+  height: 80px;
+}
